@@ -1,0 +1,5 @@
+name: BungeecordAPI
+author: mricine
+main: me.mricine.Bungeecord.Princ
+version: 1.0
+commands: {}

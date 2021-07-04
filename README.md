@@ -8,6 +8,6 @@ Use this simple API to connect player/s to another server using spigot!
 THIS ONLY WORKS IF YOUR SERVER USES BUNGEECORD AND MULTIPLE SERVERS!
 
 Use:
- - BungeecordAPI.ConnectTo(<SERVER NAME>, <PLAYER>);
+ - BungeecordAPI.ConnectTo("ServerName", PLAYER);
  
 <SERVER NAME> can be obtained from the Bungeecord config.yml.
